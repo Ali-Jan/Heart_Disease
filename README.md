@@ -1,6 +1,6 @@
 # Heart Disease Dashboard
 
-This repository contains a Power BI dashboard built using a real dataset of heart disease patients from the 1.Original [Heart Disease Cleveland UCI Repository](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci/data). The dashboard provides insights into various clinical and demographic attributes to support data-driven decisions and health analytics.
+This repository contains a Power BI dashboard built using a real dataset of heart disease patients from the [Heart Disease Cleveland UCI Repository](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci/data). The dashboard provides insights into various clinical and demographic attributes to support data-driven decisions and health analytics.
 
 ## Dataset Overview
 The dataset consists of 13 features, all of which are numerical. Some features are inherently categorical and have been encoded accordingly. Below is a detailed description of the dataset:
@@ -32,6 +32,10 @@ The Power BI dashboard is organized into three main tabs:
 
 ### 1. **Patient Overview**
 This tab provides a high-level summary of the dataset:
+
+![Screenshot (10)](https://github.com/user-attachments/assets/8ea4abcf-3e25-4ab7-956f-f43664b63f59)
+
+
 - **Slicers**:
   - Age window.
   - Gender.
@@ -54,6 +58,9 @@ This tab provides a high-level summary of the dataset:
 
 ### 2. **Clinical Insights**
 This tab delves into more detailed clinical analysis:
+
+![Screenshot (11)](https://github.com/user-attachments/assets/27b5b5f1-619e-401d-8938-1ce776a96f38)
+
 - **Scatter Plots**:
   - Oldpeak vs. Age.
   - Cholesterol vs. Age.
@@ -70,9 +77,13 @@ This tab delves into more detailed clinical analysis:
 
 ### 3. **Info Tab**
 This tab provides:
+
+![Screenshot (12)](https://github.com/user-attachments/assets/ffb7dd3b-d898-489e-b116-e0755550023a)
+
 - General information about the dataset.
 - Insights into heart disease statistics worldwide and in the U.S.
-- Link to the dataset: [UCI Heart Disease Dataset](https://archive.ics.uci.edu/dataset/45/heart+disease).
+- Link to the dataset:  [Heart Disease Cleveland UCI Repository](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci/data)
+                        [UCI Heart Disease Dataset](https://archive.ics.uci.edu/dataset/45/heart+disease).
 
 ---
 
@@ -104,4 +115,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 For any questions, feel free to connect on LinkedIn or raise an issue in the repository.
+
 
