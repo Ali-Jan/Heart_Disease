@@ -106,14 +106,11 @@ I am open to feedback and suggestions for enhancing this dashboard. Feel free to
 - Like, share, or comment to help this dashboard reach health professionals and data enthusiasts.
 - Share your insights and feedback to make this tool more valuable for the community.
 
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
 ## Contact
 For any questions, feel free to connect on LinkedIn or raise an issue in the repository.
+www.linkedin.com/in/ali-jan2016
 
 
