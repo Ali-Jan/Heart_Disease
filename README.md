@@ -111,6 +111,6 @@ I am open to feedback and suggestions for enhancing this dashboard. Feel free to
 
 ## Contact
 For any questions, feel free to connect on LinkedIn or raise an issue in the repository.
-www.linkedin.com/in/ali-jan2016
+www.linkedin.com/in/AliJanAli3131
 
 
