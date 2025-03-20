@@ -39,7 +39,7 @@ This tab provides a high-level summary of the dataset:
 - **Slicers**:
   - Age window.
   - Gender.
-- **KPIs**:
+- **Metrics**:
   - Total Patients (Participants).
   - Average Age.
   - Average Cholesterol.
